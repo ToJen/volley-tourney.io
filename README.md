@@ -1,5 +1,5 @@
 # volley-tourney.io
-This is a system where volleyball tournament organizers can create tournaments and setthe tournament types along with the team brackets.
+This is a system where volleyball tournament organizers can create tournaments and set the tournament types along with the team brackets.
 
 There are different accounts for the organizer, coach and referee.
 

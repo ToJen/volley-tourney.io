@@ -5,8 +5,8 @@ There are different accounts for the organizer, coach and referee.
 
 To run:
   (1) Terminal: 
-      a] javac *.java
-      b] java TournamentTester
+      [a] javac *.java
+      [b] java TournamentTester
   
   (2) Executable:
-      a] open the file volley-tourney.io
+      [a] open the file volley-tourney.io
